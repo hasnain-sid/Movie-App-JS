@@ -75,7 +75,7 @@ async function displayMoviesDetails() {
           alt="${movie.title}"
         />`
           } 
-            />
+            
           </div>
           <div>
             <h2> ${movie.title}</h2>
